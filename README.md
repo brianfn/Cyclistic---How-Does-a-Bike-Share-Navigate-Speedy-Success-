@@ -8,4 +8,4 @@ So this project aims to find the pattern between two user types and how they use
 You can find the analysis process on the ipynb file and the visuals link is down below.
 
 Tableau visualization:
-https://public.tableau.com/views/text_16754142915430/Cyclisticuseranalysis?:language=zh-TW&:display_count=n&:origin=viz_share_link
+[https://public.tableau.com/views/text_16754142915430/Cyclisticuseranalysis?:language=zh-TW&:display_count=n&:origin=viz_share_link](https://public.tableau.com/shared/2BMYSQ5BT?:display_count=n&:origin=viz_share_link)https://public.tableau.com/shared/2BMYSQ5BT?:display_count=n&:origin=viz_share_link
